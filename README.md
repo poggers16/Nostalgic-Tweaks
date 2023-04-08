@@ -1,4 +1,4 @@
-# Nostalgic Tweaks - 1.19.4 (v2) Development Branch
+# Nostalgic Tweaks - 1.19.4 (v2) Gaming Branch
 ### Forge & Fabric
 This is the 1.19.4 (v2) development branch for N.T.
 
